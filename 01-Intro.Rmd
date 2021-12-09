@@ -2,16 +2,11 @@
 
 In this project, I will be posting different data visualization submitting in the Tidytuesday project maintained by the R Learning Community.
 
-## Source of data used
+** Source of data used
 
 On every Tuesday a data challenge is submitted to the R for data science [github repo](https://github.com/rfordatascience/tidytuesday) project maintained by the R Learning and users community. 
 This is an active community from which newbies to R learn from others' work on weekly basis. 
 
-## Who contribute to this project
+** Who contribute to this project
 
 Everyone with interest to share his/her work with other mates for sake for sake of improving knowledge in using for `data analysis` and `data science`.
-
-## Code of conduct
-
-
-## How to contribute to the project
