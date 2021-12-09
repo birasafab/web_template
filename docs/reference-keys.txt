@@ -3,6 +3,5 @@ source-of-data-used
 who-contribute-to-this-project
 code-of-conduct
 how-to-contribute-to-the-project
-section
 the-pool-of-tears
 a-caucus-race-and-a-long-tale
