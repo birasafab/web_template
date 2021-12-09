@@ -34,9 +34,4 @@ bookdown::gitbook:
       whatsapp: false
       all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
     info: true
-
-fontsettings:
-      theme: night
-      family: serif
-      size: 3
 ---
