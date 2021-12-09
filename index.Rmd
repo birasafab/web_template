@@ -1,5 +1,5 @@
 --- 
-title: "New Website"
+title: "Data Viz submitted in Tidytuesday Project"
 author: "Birasafab"
 date: "`r Sys.time()`"
 site: bookdown::bookdown_site
@@ -40,11 +40,3 @@ fontsettings:
       family: serif
       size: 3
 ---
-
-# Down the rabbit-hole
-
-```{r}
-plot(iris)
-```
-
-this document is going to be fine.
